@@ -22,6 +22,9 @@ export GPG_TTY=$(tty)
     COLOQUE ISSO NO .bashrc ou .zshrc
 
 git config --global commit.gpgsign true
-git config --global tag.gpgsign true
+    ASSINAR TODOS OS COMMITS POR PADRAO USANDO A CHAVE CRIADA
 
+
+git config --global tag.gpgsign true
+    ASSINAR TODAS AS TAGS POR PADRAO USANDO A CHAVE CRIADA
 
