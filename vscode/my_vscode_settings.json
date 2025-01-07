@@ -1,0 +1,23 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "breadcrumbs.filePath": "off",
+
+    "editor.minimap.renderCharacters": false,
+    "editor.lineHeight": 1.75,
+
+    "telemetry.telemetryLevel": "off",
+
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
+    "html.autoClosingTags": false,
+}
